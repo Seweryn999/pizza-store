@@ -1,4 +1,3 @@
-import "/src/output.css";
 import { setupCounter } from "./counter.js";
 
 document.querySelector("#app").innerHTML = `
